@@ -1,4 +1,4 @@
-A Terminal Music Visualizer
+# A Terminal Music Visualizer
 
 Reading audio streams (rodio or cpal crates).
 Doing FFT with crates like rustfft.
